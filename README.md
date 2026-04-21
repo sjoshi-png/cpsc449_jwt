@@ -1,6 +1,6 @@
 # cpsc449_jwt
 
-#@ Registering ADMIN user
+### Registering ADMIN user
 <img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/9a80fec8-2600-4bed-a483-f698f336bca4" />
 
 ## Logging in as ADMIN user
